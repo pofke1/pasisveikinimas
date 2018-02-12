@@ -1,5 +1,7 @@
 # ![Programos Logo](logo.png)
 
+![version][version-badge]
+
 ## Programos tikslas
 
 **Programa atspausdina įrėmintą pasisveikiną sudarytą iš 5 eilučių:**
@@ -24,9 +26,22 @@
 
 ## Versijų istorija (changelog)
 
-### [v0.1](https://github.com/objprog/pasisveikinimas/releases/tag/v0.1) - 2018-02-12
+# [v0.2](https://github.com/objprog/pasisveikinimas/releases/tag/v0.2) - (2018-02-12)
+
+## Pridėta
+
+- Papildyta programa taip, kad atpažįsta vartotojo lytį ir pagal ją pakoreguoja sveikinimo tekstą
+- Programos logotipas
+
+## Koreguota
+
+- Papildytas **README** failas
+
+### [v0.1](https://github.com/objprog/pasisveikinimas/releases/tag/v0.1) - (2018-02-12)
 
 ### Pridėta
 
 - Pirminė programos versija
+
+[version-badge]: https://img.shields.io/badge/version-0.2-blue.svg
 
