@@ -1,4 +1,4 @@
-# Įrėmintas pasisveikinimas
+# ![Programos Logo](logo.png)
 
 ## Programos tikslas
 
@@ -10,7 +10,7 @@
 
 ## Programos išvedimas 
 
-**Įvedus vartotojo vardą **Remigijus**, programos išvedimas (output'as) atrodo taip:**
+Įvedus vartotojo vardą **Remigijus**, programos išvedimas (output'as) atrodo taip:
 
 ```shell
 Įveskite savo vardą: Remigijus
