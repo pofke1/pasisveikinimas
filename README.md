@@ -23,6 +23,12 @@
 *                     *
 ***********************
 ```
+## Įdiegimas (Unix kompiuteryje) naudojant `Clang`kompiliatorių 
+
+- `git clone https://github.com/objprog/pasisveikinimas.git`
+- `cd pasisveikinimas`
+- `clang++ -std=c++11 pasisveikinimas.cpp -o pasisveikinimas`
+- `./pasisveikinimas`
 
 ## Versijų istorija (changelog)
 
