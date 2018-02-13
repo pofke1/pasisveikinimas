@@ -23,7 +23,7 @@ int main() {
   // sudarome pirmą (ir penktą) eilutes
   const std::string pirma(antra.size(), '*');
   
-  // įrėminame sveikinimą
+  // Įrėminame sveikinimą
   std::cout << std::endl;
   std::cout << pirma << std::endl;
   std::cout << antra << std::endl;
