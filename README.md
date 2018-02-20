@@ -12,16 +12,21 @@
 
 ## Programos išvedimas 
 
-Įvedus vartotojo vardą **Remigijus**, programos išvedimas (output'as) atrodo taip:
+Įvedus vartotojo vardą **Remigijus** ir pageidautiną rėmelio dydį **3**, programos išvedimas (output'as) atrodo taip:
 
 ```shell
-Įveskite savo vardą: Remigijus
+Koks Jūsų vardas: Remigijus
+Įveskite rėmelio dydį (nuo 1 iki 10): 3
 
-***********************
-*                     *
-* Sveikas, Remigijus! *
-*                     *
-***********************
+***************************
+*                         *
+*                         *
+*                         *
+*   Sveikas, Remigijus!   *
+*                         *
+*                         *
+*                         *
+***************************
 ```
 ## Įdiegimas (Unix kompiuteryje) naudojant `Clang`kompiliatorių 
 
@@ -49,5 +54,5 @@
 
 - Pirminė programos versija
 
-[version-badge]: https://img.shields.io/badge/version-0.2-blue.svg
+[version-badge]: https://img.shields.io/badge/version-1.0-blue.svg
 
