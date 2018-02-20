@@ -12,7 +12,7 @@
 
 ## Programos išvedimas 
 
-Įvedus vartotojo vardą **Remigijus** ir pageidautiną rėmelio dydį **3**, programos išvedimas (output'as) atrodo taip:
+Įvedus vartotojo vardą **Remigijus** ir pageidautiną rėmelio dydį (nuo 1 iki 10) **3**, programos išvedimas (output'as) atrodo taip:
 
 ```shell
 Koks Jūsų vardas: Remigijus
@@ -36,6 +36,22 @@ Koks Jūsų vardas: Remigijus
 - `./pasisveikinimas`
 
 ## Versijų istorija (changelog)
+
+### [v1.0](https://github.com/objprog/pasisveikinimas/releases/tag/v1.0) - (2018-02-20)
+
+**Pridėta**
+
+- Atsirado galimybė kontroliuoti rėmelio dydį
+
+**Koreguota**
+
+- Atnaujingas **README** failas
+
+### [v0.2.1](https://github.com/objprog/pasisveikinimas/releases/tag/v0.2.1) - (2018-02-12)
+
+**Koreguota**
+
+- Pataisytas .cpp failas
 
 ### [v0.2](https://github.com/objprog/pasisveikinimas/releases/tag/v0.2) - (2018-02-12)
 
