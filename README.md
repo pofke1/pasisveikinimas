@@ -45,7 +45,7 @@ Koks Jūsų vardas: Remigijus
 
 **Koreguota**
 
-- Atnaujingas **README** failas
+- Atnaujintas **README** failas
 
 ### [v0.2.1](https://github.com/objprog/pasisveikinimas/releases/tag/v0.2.1) - (2018-02-12)
 
