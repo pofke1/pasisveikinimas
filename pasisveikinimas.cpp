@@ -7,6 +7,7 @@
  */
 #include <iostream>
 #include <string>
+#include <cassert>
 // Standartinės bibliotekos using-deklaracijos
 using std::cin;
 using std::endl;
@@ -30,6 +31,7 @@ int main() {
   int tarpai = 1;
   cout << "Įveskite rėmelio dydį (nuo 1 iki 10): ";
   cin >> tarpai;
+  assert(tarpai >= 1 && tarpai <= 10);
   // Bendras eilučių skaičius
   const int eilutes = tarpai * 2 + 3;
   // Bendras stulpelių skaičius
