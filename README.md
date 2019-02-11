@@ -1,33 +1,8 @@
 # ![Programos Logo](logo.png)
 
-![version][version-badge]
-
 ## Programos tikslas
+Pasveikinti vartotoją
 
-**Programa atspausdina įrėmintą pasisveikiną sudarytą iš 5 eilučių:**
-- Pirmoje eilutėje prasideda _rėmelis_, kuris yra seka * simbolių, ir kurio plotis priklauso nuo žmogaus vardo (įvesto programos vartotojo), pasisveikinimo ”Sveikas, ”, tarpo ir * simbolių pradžioje ir pabaigoje.
-- Antroji eilutė prasideda ir baigiasi * simboliu, o vidus užpildytas reikiamu skaičiumi tarpo simbolių.
-- Trečioji eilutė susideda iš *, tarpo, pasisveikinimo, tarpo ir vėl *.
-- Kervirta ir penkta eilutės bus analogiškos antrąjai ir pirmąjąi.
-
-## Programos išvedimas 
-
-Įvedus vartotojo vardą **Remigijus** ir pageidautiną rėmelio dydį (nuo 1 iki 10) **3**, programos išvedimas (output'as) atrodo taip:
-
-```shell
-Koks Jūsų vardas: Remigijus
-Įveskite rėmelio dydį (nuo 1 iki 10): 3
-
-***************************
-*                         *
-*                         *
-*                         *
-*   Sveikas, Remigijus!   *
-*                         *
-*                         *
-*                         *
-***************************
-```
 ## Įdiegimas (Unix kompiuteryje) naudojant `Clang`kompiliatorių 
 
 - `git clone https://github.com/objprog/pasisveikinimas.git`
